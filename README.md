@@ -8,7 +8,7 @@ Me chamo João Vitor, tenho 19 anos e atualmente estou cursando Ciência da Comp
       <a href="https://github.com/joaovitorssilva?tab=followers">
          <img alt="Seguidores" title="Seguidores no Github" src="https://custom-icon-badges.demolab.com/github/followers/joaovitorssilva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
       <a href="https://github.com/joaovitorssilva?tab=repositories&sort=stargazers">
-         <img alt="Estrelas" title="Estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/joaovitorssilva?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="Estrelas" title="Estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/joaovitorssilva?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/></a>
    </p>
 
 ---
