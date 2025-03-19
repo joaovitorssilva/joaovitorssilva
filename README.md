@@ -26,6 +26,8 @@ Me chamo João Vitor, tenho 19 anos e atualmente estou cursando Ciência da Comp
 <br />
 <br />
 
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -40,7 +42,7 @@ Me chamo João Vitor, tenho 19 anos e atualmente estou cursando Ciência da Comp
  align="left"
  heigth="200px" 
  style="padding-right:10px;"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorss)](https://github.com/joaovitorss/github-readme-stats" />
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorss&theme=tokyonight&layout=compact&custom_title=Tecnologias" />
  <img>
  
 </p>
