@@ -26,7 +26,6 @@ Me chamo João Vitor, tenho 19 anos e atualmente estou cursando Ciência da Comp
 <br />
 <br />
 
----
 
 ### 📊 Estatísticas
 
