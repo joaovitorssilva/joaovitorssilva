@@ -1,8 +1,7 @@
 # 🏄‍♂️ João Vitor Silveira
 
-**`Desenvolvedor Fullstack`**
-
-Me chamo João Vitor, tenho 19 anos e atualmente estou cursando Ciência da Computação na UFSCAR. 
+**`Junior Developer`**
+``Me chamo João Vitor, tenho 19 anos e atualmente estou cursando Ciência da Computação na UFSCAR. ``
 
    <p align="left">
       <a href="https://github.com/joaovitorssilva?tab=followers">
