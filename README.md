@@ -2,7 +2,7 @@
 
 **`Junior Developer`**
 
-`Me chamo João Vitor, tenho 19 anos e atualmente estou cursando Ciência da Computação na UFSCAR.`
+Me chamo João Vitor, tenho 19 anos e atualmente estou cursando Ciência da Computação na UFSCAR.
 
    <p align="left">
       <a href="https://github.com/joaovitorssilva?tab=followers">
