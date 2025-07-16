@@ -2,6 +2,6 @@
 
 ### Olá, meu nome é João Vitor!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=João Vitor&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=JoãoVitor&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Cursando Ciências da Computação na UFSCAR<br/> Eu sou desenvolvedor, com experiência em Node, React, Java e Spring</p>
+<p>Cursando Ciências da Computação na UFSCAR<br/> Junior Software Engineer, com experiência em Node, React, Java e Spring</p>
