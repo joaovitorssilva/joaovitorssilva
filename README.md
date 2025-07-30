@@ -6,21 +6,24 @@
   </a>
 </h1>
 
-<div align="center">
-<a href="https://linkedin.com/in/joao-vitor-ssilva">
-  <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</div>
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+
 
 ### About Me
-<pre>
-  20y 
-  BSC @ UFSCAR • Back-end Dev • Software Engineer 
+<pre> 
+  💼 BSC @ UFSCAR • Back-end Dev • Software Engineer 
+  💻 Learning Java & Spring Boot
 </pre>
+
 
 ### Github Statistics
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
   <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=joaovitorssilva&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+</a>
+
+### Contact Me
+<a href="https://linkedin.com/in/joao-vitor-ssilva">
+  <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
