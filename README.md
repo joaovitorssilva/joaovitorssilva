@@ -8,8 +8,8 @@
 
 ### About Me
 <pre> 
-  💼 BSC @ UFSCAR • Back-end Dev • Software Engineer 
-  💻 Learning Java & Spring Boot
+  💼 BSC @ UFSCAR • Front-end Dev • Software Engineer 
+  💻 Currently learning the javascript ecossystem
 </pre>
 
 
