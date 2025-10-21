@@ -9,7 +9,8 @@
 ### About Me
 <pre> 
   💼 BSC @ UFSCAR • Front-end Dev • Software Engineer 
-  💻 Currently learning the javascript ecossystem
+  💻 Currently learning low level programming
+  ✨ Clean Code
 </pre>
 
 
