@@ -9,7 +9,7 @@
 ### About Me
 <pre> 
   💼 BSC @ UFSCAR • Front-end Dev • Software Engineer 
-  💻 Currently learning low level programming
+  💻 Currently learning nestjs
   ✨ Clean Code
 </pre>
 
