@@ -1,27 +1,41 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00C6FF&height=200&section=header&text=João%20Vitor&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Typescript%20%7C%20React%20%7C%20Node.js&descAlignY=58&descSize=16" />
+</div>
+
+---
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=joaovitorssilva.joaovitorssilva">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg" >
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Jo%C3%A3o+Vitor!" alt="Typing SVG"/>
-  </a>
-</h1>
-
-### About Me
+### 👨‍💻 About Me
 <pre> 
   💼 BSC @ UFSCAR • Software Engineer 
   💻 Currently learning nestjs
   ✨ Clean Code
 </pre>
 
+</br>
 
-### Github Statistics
+### 📈 Github Statistics
+<div align="center">   
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovitorssilva&theme=tokyonight&hide_border=true" width="50%"/>
+</div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-  <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=joaovitorssilva&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-</a>
+---
 
-### Contact Me
-<a href="https://linkedin.com/in/joao-vitor-ssilva">
+### 📫 Contact Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/joao-vitor-ssilva">
   <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</div>
+
+</br>
+
+<div align="center">
+  
+> 💬 Open to opportunities and collaborations! Reach out — I love discussing tech. 🤝
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00C6FF&height=120&section=footer"/>
+</div>
 
