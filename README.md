@@ -25,7 +25,7 @@
 ### 📫 Contact Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/joao-vitor-ssilva">
+  <a href="https://www.linkedin.com/in/joao-vitor-silveira/">
   <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 	<a href="mailto:jjoaovvitorsilveira87@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
